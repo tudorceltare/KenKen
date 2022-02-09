@@ -1,2 +1,3 @@
 # KenKen
-Mini game made in x86 assembly language
+Mini KenKen game made in x86 assembly language.  
+<img src="pictures/game.png" width="70%">
